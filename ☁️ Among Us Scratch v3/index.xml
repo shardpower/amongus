@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<Module>
+<ModulePrefs title="Effing Worms Xmas"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html>
 <!-- Created with https://packager.turbowarp.org/ -->
 <html>
 <head>
@@ -322,3 +325,6 @@
   </script>
 </body>
 </html>
+ ]]>
+</Content>
+</Module>
